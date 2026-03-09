@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const WEBSITE = "https://example.com";
+const WEBSITE = "https://cedardam.nl";
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const CHAT_ID = process.env.CHAT_ID;
 
